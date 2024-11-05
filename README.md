@@ -4,7 +4,6 @@
 
 
 ### Prerequisites
-Make sure you have the following installed:
 - Docker
 - Docker Compose
 
@@ -12,9 +11,11 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/PsGoV/code-challenge-adrestia.git
 ```
+### Navigate to CODE-CHALLENGE-ADRESTIA
 ```
 cd code-challenge-adrestia
 ```
+### Build and Start Containers:
 ```
 docker-compose up --build
 ```
